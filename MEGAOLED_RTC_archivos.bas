@@ -166,7 +166,7 @@ Return
 '*******************************************************************************
 Sub Inivar()
 Reset Led1
-Print #1 , "************ DRIVER AUDIO ************"
+Print #1 , "************ OLED MEGA ************"
 Print #1 , Version(1)
 Print #1 , Version(2)
 Print #1 , Version(3)
